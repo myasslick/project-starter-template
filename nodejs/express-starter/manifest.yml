@@ -1,0 +1,7 @@
+applications:
+-   name: express-starter
+    buildpack: "https://github.com/cloudfoundry/nodejs-buildpack.git#v1.5.13"
+    host: express-starter
+    command: npm start
+    memory: 256M
+    instances: 1
