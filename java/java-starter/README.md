@@ -1,3 +1,6 @@
+(Based on
+[Maven in Five Minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html))
+
 ## Starter kit
 
 To create this project, run
